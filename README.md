@@ -32,7 +32,7 @@ TO-DOIT is a stylish, modern, and themeable task management app built with **HTM
 
 2. Navigate to the project folder:
    ```bash
-   cd todoit
+   cd TO-DO-LIST-APP
    ```
 
 3. Open `index.html` in your browser:
